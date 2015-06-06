@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Stroke 7';
-	src:url('fonts/Stroke-7.eot?-c9tlgc');
-	src:url('fonts/Stroke-7.eot?#iefix-c9tlgc') format('embedded-opentype'),
-		url('fonts/Stroke-7.ttf?-c9tlgc') format('truetype'),
-		url('fonts/Stroke-7.woff?-c9tlgc') format('woff'),
-		url('fonts/Stroke-7.svg?-c9tlgc#Stroke-7') format('svg');
+	src:url('fonts/Stroke-7.eot?t56on4');
+	src:url('fonts/Stroke-7.eot?#iefixt56on4') format('embedded-opentype'),
+		url('fonts/Stroke-7.ttf?t56on4') format('truetype'),
+		url('fonts/Stroke-7.woff?t56on4') format('woff'),
+		url('fonts/Stroke-7.svg?t56on4#Stroke-7') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.s7-menu2:before {
+	content: "\e6cb";
+}
 .s7-check:before {
 	content: "\e6ca";
 }
