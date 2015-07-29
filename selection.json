@@ -4853,7 +4853,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"exapnd2"
+					"expand2"
 				],
 				"grid": 16
 			},
@@ -4863,7 +4863,7 @@
 				"id": 39,
 				"prevSize": 32,
 				"code": 58968,
-				"name": "exapnd2",
+				"name": "expand2",
 				"ligatures": ""
 			},
 			"setIdx": 1,
