@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Stroke-7';
+	font-family: 'Stroke 7';
 	src:url('fonts/Stroke-7.eot?21lgsr');
 	src:url('fonts/Stroke-7.eot?#iefix21lgsr') format('embedded-opentype'),
 		url('fonts/Stroke-7.ttf?21lgsr') format('truetype'),
@@ -10,7 +10,7 @@
 }
 
 [class^="s7-"], [class*=" s7-"] {
-	font-family: 'Stroke-7';
+	font-family: 'Stroke 7';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
